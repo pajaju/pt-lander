@@ -497,6 +497,6 @@ section {
 	/* 
   background: url(https://images.unsplash.com/photo-1620912738725-1e5f0e49e97d?q=80&w=1178&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) */
 	/* background: url(/20231117021551_1.jpg) center no-repeat; */
-	background: url(/tausta.jpg) center no-repeat;
+	background: url(tausta.jpg) center no-repeat;
 	background-size: cover;
 }
